@@ -6,7 +6,8 @@ Features
 Optional anime-style image conversion 🎨
 Image-to-Video frame generation 🎥
 Auto GIF creation ✨
+
 How to use
 Upload an image
-(Optional) Convert to anime style
+(Optional) Convert to anime-style
 Click "Generate GIF"!
